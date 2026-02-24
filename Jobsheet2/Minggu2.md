@@ -100,6 +100,8 @@ latihan. Tunjukkan sebelum dan sesudah.
 
 ### Jawaban
 1. Sebelum: ![Langkah 1](Image/Latihan_2.D1.png "Latihan 2.D")
+
+
 Sesudah: ![Langkah 2](Image/Latihan_2.D2.png "Latihan 2.D")
 
 ## Latihan 2.E
