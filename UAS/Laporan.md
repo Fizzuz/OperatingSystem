@@ -70,5 +70,11 @@ _Gambar 4.2 Proses Pembuatan File ISO_
 Proses build ISO memampatkan seluruh direktori root filesystem hasil kustomisasi menggunakan mksquashfs. Sistem secara otomatis melakukan kalkulasi arsitektur, menyusun modul bootloader, dan menghasilkan file biner .iso sebesar 6.24 GiB yang tersimpan pada direktori Downloads. Proses ini juga menghasilkan file MD5 checksum untuk validasi integritas data pasca-produksi.
 
 ## 5. Dokumentasi
-![Langkah 1](Image/Gambar12.jpg "UAS")
+![Langkah 1](Image/Gambar13.jpg "UAS")
 _Gambar 5.1 Dokumentasi Icon,Tema, dan Wallpaper_
+
+![Langkah 1](Image/Gambar14.jpg "UAS")
+_Gambar 5.2 Dokumentasi Aplikasi Buatan Sendiri_
+
+![Langkah 1](Image/Gambar15.jpg "UAS")
+_Gambar 5.3 Dokumentasi Mencoba Membuka Aplikasi_
